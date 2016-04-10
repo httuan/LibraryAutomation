@@ -1,0 +1,10 @@
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe.config
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.exe
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\bin\Debug\LibraryAutomation.pdb
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csprojResolveAssemblyReference.cache
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Properties.Resources.resources
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.csproj.GenerateResource.Cache
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.exe
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.pdb
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Content.resources
+c:\users\huynhtuan\documents\visual studio 2015\Projects\LibraryAutomation\LibraryAutomation\obj\Debug\LibraryAutomation.Views.LA_Test.resources
